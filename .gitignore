@@ -1,0 +1,5 @@
+.DS_Store
+README.rtf
+lectures/
+*.o
+as[0-9]
